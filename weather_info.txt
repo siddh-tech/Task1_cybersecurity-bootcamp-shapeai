@@ -1,0 +1,69 @@
+Country Name Is             : india
+Current Temperature Is   : 25.98 Deg C
+Current Weather Desc Is   :scattered clouds
+Current Humidity Is       :28%
+Current Wind Speed Is     :2.06kmph
+------------------------------------------------------------
+
+Country Name Is             : australia
+Current Temperature Is   : 12.88 Deg C
+Current Weather Desc Is   :overcast clouds
+Current Humidity Is       :45%
+Current Wind Speed Is     :5.04kmph
+------------------------------------------------------------
+
+Country Name Is             : tokyo
+Current Temperature Is   : 21.69 Deg C
+Current Weather Desc Is   :broken clouds
+Current Humidity Is       :79%
+Current Wind Speed Is     :0.89kmph
+------------------------------------------------------------
+
+Country Name Is             : england
+Current Temperature Is   : 30.37 Deg C
+Current Weather Desc Is   :scattered clouds
+Current Humidity Is       :65%
+Current Wind Speed Is     :5.15kmph
+------------------------------------------------------------
+
+Country Name Is             : france
+Current Temperature Is   : 27.99 Deg C
+Current Weather Desc Is   :light rain
+Current Humidity Is       :80%
+Current Wind Speed Is     :2.77kmph
+------------------------------------------------------------
+
+Country Name Is             : pakistan
+Current Temperature Is   : 22.74 Deg C
+Current Weather Desc Is   :broken clouds
+Current Humidity Is       :42%
+Current Wind Speed Is     :1.95kmph
+------------------------------------------------------------
+Country Name Is             : palitana
+Current Temperature Is   : 33.62 Deg C
+Current Weather Desc Is   :scattered clouds
+Current Humidity Is       :31%
+Current Wind Speed Is     :4.12kmph
+------------------------------------------------------------
+
+Country Name Is             : japan
+Current Temperature Is   : 24.84 Deg C
+Current Weather Desc Is   :broken clouds
+Current Humidity Is       :63%
+Current Wind Speed Is     :1.79kmph
+------------------------------------------------------------
+
+Country Name Is             : Sydney
+Current Temperature Is   : 12.28 Deg C
+Current Weather Desc Is   : few clouds
+Current Humidity Is       : 89%
+Current Wind Speed Is     : 1.54kmph
+------------------------------------------------------------
+
+Country Name Is             : southampton
+Current Temperature Is   : 12.48 Deg C
+Current Weather Desc Is   : few clouds
+Current Humidity Is       : 84%
+Current Wind Speed Is     : 4.63kmph
+------------------------------------------------------------
+
